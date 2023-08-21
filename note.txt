@@ -1,0 +1,18 @@
+backend:
+nodemon
+dotenv
+colors
+express-async-handler
+jsonwebtoken
+bcrypt
+
+mongoose: $or, $options
+
+frontend:
+custom-cra
+prettier
+babelrc
+
+deploy: render deploy
+
+https://chat-app-zwzg.onrender.com
